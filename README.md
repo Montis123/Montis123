@@ -6,33 +6,12 @@
 
 ## Проекты
 
-### Telegram-бот для автоматизации привлечения курьеров
-
-Бот для сбора заявок, проверки города, выдачи партнерских ссылок, фиксации статусов и отправки напоминаний.
-
-- Python, aiogram
-- Supabase/PostgreSQL
-- Redis
-- Telegram Bot API
-- около 150-200 пользователей
-
-[Открыть репозиторий](https://github.com/Montis123/yaedok-bot-showcase)
-
-### Telegram-бот для заказов товаров из Китая
-
-Бот для приема заявок, расчета примерной стоимости доставки, хранения заказов и передачи данных в Google Sheets.
-
-- Python, aiogram
-- SQLite
-- Google Sheets API
-- Telegram Bot API
-
-[Открыть репозиторий](https://github.com/Montis123/poizon-bot-showcase)
-
-### Университетские проекты
-
-- [Симуляция фототропизма на Python и PyQt5](https://github.com/Montis123/Python-Qt-Coursework)
-- [Приложение для моделирования смешения СПГ на C++ и Qt](https://github.com/Montis123/C-Qt-Coursework)
+| Проект | Стек | Описание |
+|---|---|---|
+| [yaedok-bot-showcase](https://github.com/Montis123/yaedok-bot-showcase) | Python, aiogram, Supabase/PostgreSQL, Redis | Бот для набора курьеров: заявки, проверка города, партнёрские ссылки, статусы, напоминания. ~150-200 пользователей |
+| [poizon-bot-showcase](https://github.com/Montis123/poizon-bot-showcase) | Python, aiogram, SQLite, Google Sheets API | Бот для заказов из Китая: приём заявок, расчёт стоимости доставки, передача данных в Google Sheets |
+| [Python-Qt-Coursework](https://github.com/Montis123/Python-Qt-Coursework) | Python, PyQt5 | Курсовая: интерактивная симуляция фототропизма |
+| [C-Qt-Coursework](https://github.com/Montis123/C-Qt-Coursework) | C++, Qt | Курсовая: моделирование смешения СПГ |
 
 ## Навыки
 
